@@ -7,7 +7,7 @@
 #include <TBranch.h>
 #include <iostream>
 
-void hist(std::string feature = "B01_PMT1_ADC", std::string fileName = "data/out-feb-4944044F-000344.root"){
+void hist(std::string feature = "B01_PMT1_ADC", std::string fileName = "data/out-feb-45F6379E-000345.root"){
 
     int size = 8;
 
